@@ -374,3 +374,7 @@ footer{
     margin-bottom:15px;
     transition:.3s;
 }
+
+.project-card img:hover{
+    transform:scale(1.05);
+}
