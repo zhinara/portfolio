@@ -382,3 +382,35 @@ footer{
 .project-card img:hover{
     transform:scale(1.05);
 }
+
+.hero{
+    position: relative;
+}
+
+.circle{
+    position:absolute;
+    border-radius:50%;
+    background:#2f6df6;
+    opacity:.15;
+}
+
+.circle1{
+    width:60px;
+    height:60px;
+    top:40px;
+    right:220px;
+}
+
+.circle2{
+    width:30px;
+    height:30px;
+    top:220px;
+    right:120px;
+}
+
+.circle3{
+    width:20px;
+    height:20px;
+    top:120px;
+    right:350px;
+}
