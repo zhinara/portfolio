@@ -68,16 +68,6 @@ nav a:hover{
     height: 320px;
     object-fit: cover;
     border-radius: 50%;
-    border: 10px solid #2f6df6;
-    padding: 8px;
-    background: white;
-    box-shadow: 0 15px 35px rgba(0,0,0,.15);
-}
-.hero img{
-    width: 320px;
-    height: 320px;
-    object-fit: cover;
-    border-radius: 50%;
     border: 10px solid #cad7de;
     padding: 8px;
     background: white;
