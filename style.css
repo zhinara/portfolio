@@ -189,16 +189,16 @@ nav a:hover{
 
 /* کارت‌های پروژه کنار هم */
 
-  .project-card a{
-    display:inline-block;
-    width:160px;
-    text-align:center;
-    background:#0d6efd;
-    color:white;
-    text-decoration:none;
-    padding:10px 20px;
-    border-radius:8px;
-    transition:.3s;
+.project-card{
+    display: inline-block;
+    width: 320px;
+    margin: 15px;
+    padding: 25px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    transition: .3s;
+    vertical-align: top;
 }
 
 .project-card:hover{
@@ -217,6 +217,8 @@ nav a:hover{
 }
 
 .project-card a{
+    width:160px;
+    text-align:center;
     display: inline-block;
     background: #0d6efd;
     color: white;
@@ -373,7 +375,7 @@ footer{
     object-fit:cover;
     border-radius:10px;
     margin-bottom:15px;
-    transition:.3s;
+     transition:.3s;
 }
 
 .project-card img:hover{
