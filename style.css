@@ -63,18 +63,11 @@ nav a:hover{
     padding: 80px 20px;
 }
 
-.hero img{
-    width: 320px;
-    height: 320px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 10px solid #cad7de;
-    padding: 8px;
-    background: white;
-    box-shadow: 0 15px 35px rgba(0,0,0,.15);
-    position: relative;
-    left:40px;
-}
+
+    .hero img{
+        width:180px;
+        height:180px;
+    }
 
 
 .hero h2{
